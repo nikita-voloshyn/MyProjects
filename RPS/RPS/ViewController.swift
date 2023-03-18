@@ -7,6 +7,12 @@
 
 import UIKit
 
+
+
+
+
+
+
 class ViewController: UIViewController {
     @IBOutlet weak var appSign: UILabel!
     @IBOutlet weak var statusLabel: UILabel!
